@@ -1,6 +1,6 @@
 # doge-rewardly-bot
 Earn Crypto Telegram Script
-![image](https://github.com/sixteen-crypto/rushbitcoin/blob/main/IMG_20230821_035444_139.jpg)
+![image](https://github.com/sixteen-crypto/only_images_for_SIXTEEN/blob/main/Screenshot_20230826-102424.png)
 
 Auto Installion Of Modules
 
