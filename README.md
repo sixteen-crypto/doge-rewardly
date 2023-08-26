@@ -17,4 +17,4 @@ Manual installation
  - _pip install requests_toolbelt_
 
 #Faucet
- - [here](https://rushbitcoin.com)
+ - [here](https://t.me/RewardlyBot?start=5572368871)
